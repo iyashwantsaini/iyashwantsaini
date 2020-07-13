@@ -5,7 +5,7 @@ I'm in my third year of studies towards a bachelor's in Computer Engineering. <b
 
 <div>
 <div>
-<img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg?token=AFBER77T6JP7ZDFRRERB7TK7CWBZK" 
+<img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
 align="left" width="200" height="200" style="margin-right:25px;">
 </div>     
 <div style="margin-left:30px;align="right"">
@@ -23,8 +23,11 @@ align="left" width="200" height="200" style="margin-right:25px;">
 </div>
 <br>
 <div>
-<a href="https://meyash.xyz/" style="margin-right:10px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="20"></a>
-<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20"></a>
-<a href="https://twitter.com/meyash21" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="20"></a>
-<a href="https://www.instagram.com/__yashwant21__/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20"></a>
+     
+<a href="https://meyash.xyz/" style="margin-right:10px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="30"></a>
+<a href="https://meyash.xyz/resume.pdf" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="30"></a> 
+<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"></a>
+<a href="https://twitter.com/meyash21" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30"></a>
+<a href="https://www.instagram.com/__yashwant21__/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"></a>
+<a href="https://www.codechef.com/users/meyash21" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="30"></a>  
 </div>
