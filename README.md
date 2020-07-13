@@ -23,8 +23,8 @@ align="left" width="200" height="200" style="margin-right:25px;">
 </div>
 <br>
 <div>
-<a href="https://meyash.xyz/"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="40"></a>
-<a href="https://www.linkedin.com/in/meyash21/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40"></a>
-<a href="https://twitter.com/meyash21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40"></a>
-<a href="https://www.instagram.com/__yashwant21__/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40"></a>
+<a href="https://meyash.xyz/" style="margin-right:10px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="20"></a>
+<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20"></a>
+<a href="https://twitter.com/meyash21" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="20"></a>
+<a href="https://www.instagram.com/__yashwant21__/" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20"></a>
 </div>
