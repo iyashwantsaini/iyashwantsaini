@@ -3,7 +3,7 @@ I am [Yashwant](https://meyash.xyz/).
 I'm a Full Stack Developer.
 I'm in my third year of studies towards a bachelor's in Computer Engineering.
 
-<img src="sage.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="sage.png" align="right" width="200" height="200">
      
 - 🔭 I’m currently working on an opensource flutter app "wolwo".
 - 🌱 I’m currently learning Julia and Dart.
