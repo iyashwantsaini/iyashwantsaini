@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am [Yashwant](https://meyash.xyz/). 
-I'm a Full Stack Developer.
-I'm in my third year of studies towards a bachelor's in Computer Engineering.
+I'm a Full Stack Developer. <br />
+I'm in my third year of studies towards a bachelor's in Computer Engineering. <br />
 
-<img src="sage.png" align="right" width="200" height="200">
+<img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg?token=AFBER77T6JP7ZDFRRERB7TK7CWBZK" align="left" width="200" height="200">
      
 - 🔭 I’m currently working on an opensource flutter app "wolwo".
 - 🌱 I’m currently learning Julia and Dart.
