@@ -4,7 +4,7 @@ I'm a Full Stack Developer. <br />
 I'm in my third year of studies towards a bachelor's in Computer Engineering. <br />
 
 <div>
-<div style="margin-right:30px;>
+<div>
 <img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
 align="left" width="200" height="200" style="margin-right:25px;">
 </div>
