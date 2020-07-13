@@ -1,17 +1,14 @@
 ### Hi there 👋
-I am [Yashwant](https://www.linkedin.com/in/meyash21/). 
+I am [Yashwant](https://meyash.xyz/). 
 I'm a Full Stack Developer.
+I'm in my third year of studies towards a bachelor's in Computer Engineering.
 
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![sage](sage.jpeg) | - 🔭 I’m currently working on an opensource flutter app "wolwo".
+- 🌱 I’m currently learning Julia and Dart.
+- 👯 I’m looking to collaborate on some React or Flutter project.
+- 🤔 I’m looking for help with GPU programming with Julia.
+- 💬 Ask me about web/mobile releated technologies.
+- 📫 How to reach me: yashsn2127@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Space smells like seared steak. |
+|-------|-----|
