@@ -3,10 +3,12 @@ I am [Yashwant](https://meyash.xyz/).
 I'm a Full Stack Developer. <br />
 I'm in my third year of studies towards a bachelor's in Computer Engineering. <br />
 
+<div>
+<div>
 <img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg?token=AFBER77T6JP7ZDFRRERB7TK7CWBZK" 
 align="left" width="200" height="200" style="margin-right:25px;">
-     
-<div style="margin-left:30px;">
+</div>     
+<div style="margin-left:30px;align="right"">
 <ul>
      <li> 🔭 I’m currently working on a flutter app "wolwo".</li>
 <li> 🌱 I’m currently learning Julia and Dart.</li>
@@ -17,4 +19,5 @@ align="left" width="200" height="200" style="margin-right:25px;">
 <li> 😄 Pronouns: he/him</li>
 <li> ⚡ Fun fact: Space smells like seared steak.</li>
 <ul>
+</div>
 </div>
