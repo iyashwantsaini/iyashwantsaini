@@ -14,7 +14,7 @@ align="left" width="200" height="200" style="margin-right:25px;">
 <li> 🌱 I’m currently learning Julia and Dart.</li>
 <li> 👯 I’m looking to collaborate on some React or Flutter project.</li>
 <li> 🤔 I’m looking for help with GPU programming with Julia.</li>
-<li> 💬 Ask me about web/mobile releated technologies.</li>
+<li> 💬 Ask me about web/mobile related technologies.</li>
 <li> 📫 How to reach me: <a href="mailto:yashsn2127@gmail.com">yashsn2127@gmail.com</a></li>
 <li> 😄 Pronouns: he/him</li>
 <li> ⚡ Fun fact: Space smells like seared steak.</li>
