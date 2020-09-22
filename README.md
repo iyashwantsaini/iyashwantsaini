@@ -33,9 +33,8 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
 <br/>
-<br/>
 
-<div style="margin-top:20px;margin-bottom:10px;">
+<div style="margin-bottom:10px;">
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
 
@@ -43,9 +42,9 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 
 </div>
 
-<a href="https://meyash.xyz/" style="margin-right:20px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
-<a href="https://meyash.xyz/resume.pdf" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="25"></a> 
-<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25"></a>
-<a href="https://twitter.com/meyash21" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="25"></a>
-<a href="https://www.instagram.com/meyash21/" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25"></a>
-<a href="https://www.codechef.com/users/meyash21" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="25"></a>  
+<a href="https://meyash.xyz/" style="margin-right:30px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
+<a href="https://meyash.xyz/resume.pdf" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="25"></a> 
+<a href="https://www.linkedin.com/in/meyash21/" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25"></a>
+<a href="https://twitter.com/meyash21" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="25"></a>
+<a href="https://www.instagram.com/meyash21/" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25"></a>
+<a href="https://www.codechef.com/users/meyash21" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="25"></a>  
