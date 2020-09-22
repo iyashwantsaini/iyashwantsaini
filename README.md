@@ -23,7 +23,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
 </p>
 
-<div>
+<div style="margin:bottom:20px;">
 🔭 I’m currently working on a flutter app "wolwo". <br />
 🌱 I’m currently learning Kubernetes and Dart. <br />
 👯 I’m looking to collaborate on some React or Flutter project. <br />
