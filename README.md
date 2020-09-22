@@ -6,7 +6,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 
 #### Technologies I've used
 
-<p>
+<p style="width:90%;">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46a2f1?logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
@@ -45,7 +45,7 @@ align="left" width="200" height="200" style="margin-right:25px;">
 
 </div>
 
-<br>
+<br />
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html)
