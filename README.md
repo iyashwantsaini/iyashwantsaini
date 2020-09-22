@@ -5,7 +5,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 ![](https://komarev.com/ghpvc/?username=meyash&color=green)
 
 #### Technologies I've used
-<p style="width:80%;">
+<p style="margin-right:10px;width:70%">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46a2f1?logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
@@ -23,11 +23,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
 </p>
 
-<div style="margin-bottom:20px;">
-<img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
-align="left" width="200px" height="200px" style="margin-right:25px;">
-
-<div style="width:100%;height:200px">
+<div>
 🔭 I’m currently working on a flutter app "wolwo". <br />
 🌱 I’m currently learning Kubernetes and Dart. <br />
 👯 I’m looking to collaborate on some React or Flutter project. <br />
@@ -36,9 +32,8 @@ align="left" width="200px" height="200px" style="margin-right:25px;">
 😄 Pronouns: he/him. <br /> 
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
-</div>
 
-<div style="margin-top:20px;">
+<div style="margin-top:20px;margin-bottom:10px;">
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
 
