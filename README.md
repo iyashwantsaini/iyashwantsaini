@@ -32,6 +32,8 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 😄 Pronouns: he/him. <br /> 
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
+<br/>
+<br/>
 
 <div style="margin-top:20px;margin-bottom:10px;">
 
