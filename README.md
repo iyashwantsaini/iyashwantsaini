@@ -30,7 +30,6 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 <img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
 align="left" width="200" height="200" style="margin-right:25px;">
 </div>
-</div>
 
 <div>
 <ul  style="margin-left:30px;align:right;list-style-type:none;float-right;">
@@ -42,6 +41,8 @@ align="left" width="200" height="200" style="margin-right:25px;">
 <li> 😄 Pronouns: he/him</li>
 <li> ⚡ Fun fact: Space smells like seared steak.</li>
 <ul>
+</div>
+
 </div>
 
 <br>
