@@ -30,6 +30,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 <img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
 align="left" width="200" height="200" style="margin-right:25px;">
 </div>
+</div>
 
 <div>
 <ul  style="margin-left:30px;align:right;list-style-type:none;float-right;">
@@ -43,7 +44,6 @@ align="left" width="200" height="200" style="margin-right:25px;">
 <ul>
 </div>
 
-</div>
 <br>
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
