@@ -23,7 +23,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
   <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
 </p>
 
-
+<div style="margin-bottom:20px;">
 <img src="https://raw.githubusercontent.com/meyash/meyash/master/sage.jpeg" 
 align="left" width="200px" height="200px" style="margin-right:25px;">
 
@@ -36,18 +36,15 @@ align="left" width="200px" height="200px" style="margin-right:25px;">
 😄 Pronouns: he/him. <br /> 
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
-
+</div>
 
 <div style="margin-top:20px;">
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
 
-</div>
-
-
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html)
 
-
+</div>
 
 <a href="https://meyash.xyz/" style="margin-right:20px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
 <a href="https://meyash.xyz/resume.pdf" style="margin-right:20px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="25"></a> 
