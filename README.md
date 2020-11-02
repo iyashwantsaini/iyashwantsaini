@@ -2,7 +2,7 @@
 I am [Yashwant](https://meyash.xyz/).<br />
 I am in my third year of studies towards a bachelor's in Computer Engineering. <br />
 
-![](https://komarev.com/ghpvc/?username=meyash&color=green)
+<!--- ![](https://komarev.com/ghpvc/?username=meyash&color=green)--->
 
 #### Technologies I've used
 <p style="margin-right:10px;width:70%">
