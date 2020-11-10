@@ -24,12 +24,12 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 </p>
 
 <div style="margin:bottom:20px;">
-🔭 I’m currently working on a flutter app "wolwo". <br />
-🌱 I’m currently learning Kubernetes and Dart. <br />
-👯 I’m looking to collaborate on some React or Flutter project. <br />
-💬 Ask me about web/mobile related technologies. <br />
+🔭 I’m currently working on a Transcription Portal. <br />
+🌱 I’m currently learning Django and React/Redux. <br />
+👯 I’m looking to collaborate on some React/Flutter project. <br />
+💬 Ask me about Web/Mobile related technologies. <br />
 📫 How to reach me: <a href="mailto:yashsn2127@gmail.com">yashsn2127@gmail.com</a> <br />
-😄 Pronouns: he/him. <br /> 
+<!-- 😄 Pronouns: he/him. <br />  -->
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
 <br/>
@@ -38,7 +38,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 
 ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
 
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html)
+<!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html) -->
 
 </div>
 
