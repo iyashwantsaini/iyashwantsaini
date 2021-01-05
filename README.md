@@ -36,7 +36,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 
 <div style="margin-bottom:10px;">
 
-![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true)
+<!-- ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true) -->
 
 <!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html) -->
 
