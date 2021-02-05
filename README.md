@@ -2,10 +2,9 @@
 I am [Yashwant](https://meyash.xyz/).<br />
 I am in my third year of studies towards a bachelor's in Computer Engineering. <br />
 
-<!--- ![](https://komarev.com/ghpvc/?username=meyash&color=green)--->
-
 #### Technologies I've used
 <p style="margin-right:10px;width:70%">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-F05032?logo=cpp&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46a2f1?logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
@@ -16,11 +15,6 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-498AFF?logo=ionic&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github-gray?logo=github&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-pip-CB3837?logo=python&logoColor=white" />
 </p>
 
 <div style="margin:bottom:20px;">
@@ -33,15 +27,7 @@ I am in my third year of studies towards a bachelor's in Computer Engineering. <
 ⚡ Fun fact: Space smells like seared steak. <br />
 </div>
 <br/>
-
-<div style="margin-bottom:10px;">
-
-<!-- ![meyash_stats](https://github-readme-stats.vercel.app/api?username=meyash&show_icons=true&theme=default&count_private=true) -->
-
-<!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyash&layout=compact&hide=css,html) -->
-
-</div>
-
+<div style="margin-bottom:10px;"></div>
 <a href="https://meyash.xyz/" style="margin-right:30px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
 <a href="https://meyash.xyz/resume.pdf" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/libreoffice.svg" width="25"></a> 
 <a href="https://www.linkedin.com/in/meyash21/" style="margin-right:30px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25"></a>
