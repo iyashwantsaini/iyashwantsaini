@@ -1,8 +1,8 @@
-### # Hi, I'm [Yashwant](https://linktr.ee/meyash/). 👋
+### Hi, I'm [Yashwant](https://linktr.ee/meyash/). 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/meyash?label=Follow)](https://twitter.com/intent/follow?screen_name=meyash)
-[![Linkedin: Yashwant](https://img.shields.io/badge/-Yashwant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meyash/)](https://www.linkedin.com/in/meyash/)
-![GitHub followers](https://img.shields.io/github/followers/meyash?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/meyash21?label=Follow)](https://twitter.com/intent/follow?screen_name=meyash21)
+[![Linkedin: Yashwant](https://img.shields.io/badge/-Yashwant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meyash21/)](https://www.linkedin.com/in/meyash21/)
+![GitHub Followers](https://img.shields.io/github/followers/meyash?label=Follow&style=social)
 
 
 <!-- <div style="margin-bottom:10px;"></div>
