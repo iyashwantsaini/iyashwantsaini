@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/followers/meyash?label=Github&style=social)
 [![LinkedIn](https://img.shields.io/badge/-Yashwant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meyash21/)](https://www.linkedin.com/in/meyash21/)
 
-![snake gif](https://github.com/meyash/meyash/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/meyash/meyash/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div style="margin-bottom:10px;"></div>
 <a href="https://meyash.xyz/" style="margin-right:30px;"><img src="https://meyash.xyz/assets/icons/siteicon.png" width="25"></a>
