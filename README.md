@@ -1,7 +1,7 @@
 ### Hi, I'm [Yashwant](https://linktr.ee/meyash/). 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Yashwant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meyash21/)](https://www.linkedin.com/in/meyash21/)
-[![Twitter](https://img.shields.io/twitter/follow/meyash21?style=flat-square&label=Twitter)](https://twitter.com/intent/follow?screen_name=meyash21)
+[![Twitter](https://img.shields.io/twitter/follow/meyash21?label=Twitter)](https://twitter.com/intent/follow?screen_name=meyash21)
 ![GitHub](https://img.shields.io/github/followers/meyash?&label=Github&style=social)
 
 <!-- ![snake gif](https://github.com/meyash/meyash/blob/output/github-contribution-grid-snake.svg) -->
