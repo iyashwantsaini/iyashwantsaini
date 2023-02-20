@@ -1,8 +1,9 @@
-### Hi, I'm [Yashwant](https://linktr.ee/iyashwantsaini/). 👋
+### Hi, I'm [Yashwant](https://www.linkedin.com/in/iyashwantsaini). 👋
 
+<!--
 [![LinkedIn](https://img.shields.io/badge/-Yashwant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iyashwantsaini/)](https://www.linkedin.com/in/iyashwantsaini/)
 [![Twitter](https://img.shields.io/twitter/follow/iyashwantsaini?label=Twitter)](https://twitter.com/intent/follow?screen_name=iyashwantsaini)
-![GitHub](https://img.shields.io/github/followers/iyashwantsaini?&label=Github&style=social)
+![GitHub](https://img.shields.io/github/followers/iyashwantsaini?&label=Github&style=social) -->
 
 <!-- ![snake gif](https://github.com/iyashwantsaini/iyashwantsaini/blob/output/github-contribution-grid-snake.svg) -->
 
